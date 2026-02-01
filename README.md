@@ -1,6 +1,4 @@
-Sure, here's a draft of a README.md file based on your project:
-
-imgToStr
+# imgToStr
 This Python library, imgToStr, is designed to convert images into text. It uses the OpenCV library to convert a given image into a NumPy array, and then converts that array into a string using a set of characters.
 
 Installation
@@ -73,3 +71,6 @@ This project is licensed under the MIT License
 
 # Contributing
 Contributions are welcome!
+
+# photos
+![cat](https://github.com/user-attachments/assets/301d150d-ccf1-4466-85bc-b71f91714008)
